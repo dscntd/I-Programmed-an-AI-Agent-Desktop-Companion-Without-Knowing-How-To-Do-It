@@ -8,7 +8,8 @@
 R08 ist ein lokaler Desktop-KI-Agent für Windows – gebaut mit PyQt6, Claude API und Ollama.
 Kein Cloud-Abo, keine monatlichen Kosten, keine Datenweitergabe. Läuft auf deinem PC.
 
-Zur info: Ich denke NICHT. dass ich ein toller Programmierer bin, etc. Es geht darum, WIE WEIT ich gekommen bin mit 0% python Erfahrung :)
+Zur info: Ich denke NICHT. dass ich ein toller Programmierer bin, etc. Es geht darum, 
+WIE WEIT ich gekommen bin mit 0% python Erfahrung :)
 
 ---
 
