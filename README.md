@@ -1,5 +1,10 @@
 # R08 – Desktop KI-Agent
 
+## 📺 Die Serie auf YouTube
+- [Part 1 – Der Anfang](https://www.youtube.com/watch?v=CIJat1l2EJU)
+- [Part 5 – R08 sieht meinen Desktop](https://www.youtube.com/watch?v=1H37PCjip40)
+```
+
 > *"Ich wollte ChatGPT in einem Winamp-Skin. Jetzt baue ich einen echten Agenten."*
 
 R08 ist ein lokaler Desktop-KI-Agent für Windows – gebaut mit PyQt6, Claude API und Ollama.
