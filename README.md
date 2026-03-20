@@ -89,10 +89,6 @@ Now that Ollama acts as an intern, it's at least funny instead of frustrating :D
 
 ## Tech Stack
 
----
-
-## Tech Stack
-
 ```
 Frontend:     PyQt6 (Windows Desktop UI)
 KI Cloud:     Claude Haiku 4.5 via OpenRouter
