@@ -48,7 +48,7 @@ WIE WEIT ich gekommen bin mit 0% python Erfahrung :)
 - "Erinnere mich am 20.03. an Herrn XY" → funktioniert
 
 ### 📁 Datei-Management
-- Notizen speichern, lesen, archivieren, kombinieren
+- Notizen speichern, lesen, archivieren, kombinieren, löschen
 - RAG-System – R08 durchsucht gespeicherte Notizen semantisch
 - Logs und Chat-Exporte
 - Eigener Home-Ordner: `r08_home/`
