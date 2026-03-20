@@ -122,6 +122,8 @@ Roadmap v3.0
 - [Part 1 – Der Anfang](https://www.youtube.com/watch?v=CIJat1l2EJU)
 - [Part 5 – R08 sieht meinen Desktop](https://www.youtube.com/watch?v=1H37PCjip40)
 
+There is a playlist, if u are interested in the complete series :)
+
 Why R08?
 Because I wanted an assistant that runs on my PC, knows my files,
 understands my habits – and doesn't cost a subscription every month.
