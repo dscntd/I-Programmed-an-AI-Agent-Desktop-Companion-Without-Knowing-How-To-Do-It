@@ -4,6 +4,7 @@
 ```
 
 > *"Ich wollte ChatGPT in einem Winamp-Skin. Jetzt baue ich einen echten Agenten."*
+
 An tag 1 wusste ich nicht, wie man ein .py Script in windows öffnet.
 An Tag 14 hab ich mir ne eigene .bat geschrieben und sie FUNKTIONIERT! :D
 
