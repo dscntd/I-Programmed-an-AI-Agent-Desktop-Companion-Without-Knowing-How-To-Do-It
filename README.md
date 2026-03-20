@@ -7,7 +7,7 @@ A personal experiment where I document everything I learn while building an AI a
 
 ## Status
 Work in progress 🚧
-
+---
 
 > *"I wanted ChatGPT in a Winamp skin. Now I'm building a real agent."*
 
