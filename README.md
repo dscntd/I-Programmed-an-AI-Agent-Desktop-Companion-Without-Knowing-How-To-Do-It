@@ -45,7 +45,7 @@ WIE WEIT ich gekommen bin mit 0% python Erfahrung :)
 - Termine speichern mit oder ohne Uhrzeit
 - Vortags-Erinnerung um 21:00 Uhr
 - Stündlicher Background-Check (0 Tokens)
-- "Erinnere mich am 20.03. an Herrn Kukulies" → funktioniert
+- "Erinnere mich am 20.03. an Herrn XY" → funktioniert
 
 ### 📁 Datei-Management
 - Notizen speichern, lesen, archivieren, kombinieren
