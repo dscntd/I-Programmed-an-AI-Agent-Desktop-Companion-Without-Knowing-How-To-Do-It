@@ -1,4 +1,12 @@
-# R08 – Desktop AI-Agent
+# R08 AI Agent (Learning Project)
+
+This is my journey of building an AI desktop agent from scratch – without knowing Python at the start.
+
+## What this is
+A personal experiment where I document everything I learn while building an AI agent that can control my computer.
+
+## Status
+Work in progress 🚧
 
 
 > *"I wanted ChatGPT in a Winamp skin. Now I'm building a real agent."*
