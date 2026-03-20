@@ -111,7 +111,6 @@ Roadmap v3.0
 
 Start
 bat
-Copy
 
 # Run r08_start.bat
 # Activates venv + sets all env vars automatically
