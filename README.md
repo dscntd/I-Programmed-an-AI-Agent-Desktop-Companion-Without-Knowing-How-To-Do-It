@@ -109,13 +109,6 @@ Roadmap v3.0
     [ ] ThreadPool + Request-ID System
     [ ] Tool Registry complete (already started ✅)
 
-Start
-bat
-
-# Run r08_start.bat
-# Activates venv + sets all env vars automatically
-```
-
 ---
 
 ## 📺 Series on YouTube
