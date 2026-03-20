@@ -4,7 +4,7 @@
 ```
 
 > *"Ich wollte ChatGPT in einem Winamp-Skin. Jetzt baue ich einen echten Agenten."*
-An tag 1 wusste ich nicht, wie man ein py. Script in windows öffnet.
+An tag 1 wusste ich nicht, wie man ein .py Script in windows öffnet.
 An Tag 14 hab ich mir ne eigene .bat geschrieben und sie FUNKTIONIERT! :D
 
 R08 ist ein lokaler Desktop-KI-Agent für Windows – gebaut mit PyQt6, Claude API und Ollama.
