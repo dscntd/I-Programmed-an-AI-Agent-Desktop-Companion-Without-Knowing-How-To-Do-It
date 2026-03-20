@@ -1,4 +1,4 @@
-# R08 AI Agent (Learning Project)
+# R08 AI Agent
 
 This is my journey of building an AI desktop agent from scratch – without knowing Python at the start.
 
