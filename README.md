@@ -4,7 +4,7 @@
 > *"I wanted ChatGPT in a Winamp skin. Now I'm building a real agent."*
 
 On day 1 I didn't know how to open a .py script on Windows.
-On day 14 I wrote my own .bat file and it WORKS! :D
+On day 13 I wrote my own .bat file and it WORKS! :D
 
 R08 is a local desktop AI agent for Windows – built with PyQt6, Claude API and Ollama.
 No cloud subscription, no monthly costs, no data sharing. Runs on your PC.
