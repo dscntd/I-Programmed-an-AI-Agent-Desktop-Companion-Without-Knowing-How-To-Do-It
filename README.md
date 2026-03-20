@@ -97,14 +97,14 @@ Now that Ollama acts as an intern, it's at least funny instead of frustrating :D
 ## Tech Stack
 
 ```
-Frontend:     PyQt6 (Windows Desktop UI)
-KI Cloud:     Claude Haiku 4.5 via OpenRouter
-KI Lokal:     Qwen2.5:7b via Ollama
-Embeddings:   sentence-transformers (all-MiniLM-L6-v2)
-Musik:        yt-dlp + VLC
-Vision:       mss + Pillow + Claude Vision
-Suche:        DuckDuckGo (kein API Key nötig)
-Storage:      JSON (memory.json, reminders.json, settings.json)
+Frontend: PyQt6 (Windows Desktop UI)
+AI Cloud: Claude Haiku 4.5 via OpenRouter
+AI Local: Qwen2.5:7b via Ollama
+Embeddings: sentence-transformers (all-MiniLM-L6-v2)
+Music: yt-dlp + VLC
+Vision: mss + Pillow + Claude Vision
+Search: DuckDuckGo (no API key required)
+Storage: JSON (memory.json, reminders.json, settings.json)
 ```
 
 ---
