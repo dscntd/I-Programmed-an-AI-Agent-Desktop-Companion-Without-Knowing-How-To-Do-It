@@ -60,6 +60,9 @@ WIE WEIT ich gekommen bin mit 0% python Erfahrung :)
 - Witz-Erkennung → zeigt Witz-Gesicht mit 5 Minuten Cooldown
 - Idle-Messages wenn du zu lange nichts schreibst
 
+- Grund dafür? Du bekommst den spührbaren übergang von Haiku 4.5 zu Ollama 3b nicht weg!
+Jetzt wo Ollama als Praktikant agiert, ist es statt frustrierend immerhin lustig :D
+
 ### 🏗️ Workspace
 - Großes dunkles Fenster mit 5 Tabs: Notizen, Memory, LLM Routing, Agents, Code
 - Memory-Verwaltung direkt im UI (Facts + Kontext-Einträge)
