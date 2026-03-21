@@ -163,7 +163,7 @@ Storage:    JSON (memory.json, reminders.json, settings.json)
 
 * [Part 1 – The Beginning](https://www.youtube.com/watch?v=CIJat1l2EJU)
 * [Part 5 – R08 can see my Desktop](https://www.youtube.com/watch?v=1H37PCjip40)
-* [Part 6 - My Agent is in control! (Win+R Incident!)](https://www.youtube.com/watch?v=laRQsiY9gyU)
+* [Part 6 - My Agent is in control! (Win+R Incident!)](https://www.youtube.com/watch?v=frO9p8NyNlw)
 
 There is a playlist, if you are interested in the complete series :)
 
