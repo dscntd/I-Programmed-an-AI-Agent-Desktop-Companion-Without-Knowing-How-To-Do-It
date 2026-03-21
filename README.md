@@ -110,7 +110,7 @@ HOW FAR I've come with 0% Python experience. And that's only because of AI :)
 | Agent task (e.g. open browser + type + enter) | ~2,000 | ~$0.0016 |
 | Complex question | ~1,500 | ~$0.001 |
 
-> Total cost of complete development so far: ~€1.30
+> Total cost of complete development so far: ~€1.60
 
 ---
 
